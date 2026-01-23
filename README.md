@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using github to showcase my projects (involve the software development life cycle) 
+I'm using github to showcase my projects, which involve the software development life cycle
 
 <!--
 **QeshaSabrina/QeshaSabrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
